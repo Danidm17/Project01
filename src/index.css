@@ -52,7 +52,7 @@ body {
 
 .header h1 {
   margin-left: 15px;
-  margin-top: 30px;
+  margin-top: 33px;
 }
 
 /* NAV STYLES */
@@ -102,7 +102,7 @@ body {
 
 }
 
-.peli-item {
+.movie-item {
   flex-grow: 1;
   background: white;
   border-radius: 10px;
@@ -133,15 +133,15 @@ input[type="button"] {
 
 }
 
-.peli-item .edit {
+.movie-item .edit {
   margin-right: 7px;
 }
 
-.peli-item .edit:hover {
+.movie-item .edit:hover {
   background: #e77b00;
 }
 
-.peli-item .delete:hover {
+.movie-item .delete:hover {
   background: #9b0202;
 }
 
@@ -208,7 +208,7 @@ input[type="button"] {
     align-items: center;
   }
 
-  .peli-item {
+  .movie-item {
     width: 80%;
   }
 }
