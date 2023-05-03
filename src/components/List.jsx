@@ -25,8 +25,6 @@ export const List = ({ listState, setListState }) => {
         setListState(newListMovies)
 
         localStorage.setItem("movies", JSON.stringify(newListMovies))
-
-
     }
 
     return (

@@ -1,12 +1,12 @@
-#PROJECT 01 - MASTER REACT
+# PROJECT 01 - MASTER REACT
 
 React Movie Manager
 
-##Description
+## Description
 
 This is a React project that allows users to manage a list of movies. The project includes features such as creating, editing, deleting and searching movies. The project also saves the data in the local storage of the user's browser.
 
-##Installation
+## Installation
 
 To install the project, please follow these steps:
 
@@ -15,7 +15,7 @@ To install the project, please follow these steps:
 3.Run npm start in the terminal to start the project.
 4.Open http://localhost:3000 to view the project in the browser.
 
-##Features
+## Features
 
 - Create, edit and delete movies
 - Save movie data in the browser's local storage
@@ -24,7 +24,7 @@ To install the project, please follow these steps:
 - Search for movies using filters and hooks
 - Display a message when the search doesn't return any results
 
-##Technologies
+## Technologies
 
 This project was built using the following technologies:
 
@@ -33,15 +33,15 @@ This project was built using the following technologies:
 - CSS
 - JavaScript
 
-##Contributing
+## Contributing
 
 If you want to contribute to this project, please fork the repository and create a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Credits
+## Credits
 
 This project was created by ***Daniel de Miguel***.
 
