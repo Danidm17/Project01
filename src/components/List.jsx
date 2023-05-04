@@ -42,8 +42,12 @@ export const List = ({ listState, setListState }) => {
                             <button className="edit" onClick={() => setEdit(movie.id)}>Editar</button>
                             <button className="delete" onClick={() => deleteMovie(movie.id)}>Delete</button>
 
-                            {edit == movie.id && (
-                                <EditForm movie={movie} />
+                            {edit === movie.id && (
+                                <EditForm movie={movie}
+                                    getMovies={getMovies}
+                                    setEdit={setEdit}
+                                    setListState={setListState}
+                                />
                             )}
                         </article>
                     )

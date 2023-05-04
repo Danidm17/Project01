@@ -31,7 +31,7 @@ function App() {
       </section>
 
       <aside className="lateral">
-        <Search />
+        <Search listState={listState} setListState={setListState} />
         <Create setListState={setListState} />
       </aside>
 
