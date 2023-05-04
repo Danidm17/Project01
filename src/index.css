@@ -145,7 +145,7 @@ input[type="button"] {
   background: #9b0202;
 }
 
-/* LATERAL STYLES */
+/* LATERAL STYLES and CONTENT FORM */
 
 .lateral {
   grid-area: lateral;
@@ -166,7 +166,8 @@ input[type="button"] {
 
 }
 
-.lateral input[type="text"],
+.content input[type="text"],
+.content textarea,
 .lateral input[type="text"],
 .lateral textarea {
   display: block;

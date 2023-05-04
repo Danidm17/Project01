@@ -10,10 +10,10 @@ This is a React project that allows users to manage a list of movies. The projec
 
 To install the project, please follow these steps:
 
-1.Clone this repository
-2.Run npm install in the terminal to install all dependencies.
-3.Run npm start in the terminal to start the project.
-4.Open http://localhost:3000 to view the project in the browser.
+1. Clone this repository
+2. Run npm install in the terminal to install all dependencies.
+3. Run npm start in the terminal to start the project.
+4. Open http://localhost:3000 to view the project in the browser.
 
 ## Features
 
@@ -37,9 +37,6 @@ This project was built using the following technologies:
 
 If you want to contribute to this project, please fork the repository and create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Credits
 
